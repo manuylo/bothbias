@@ -1,4 +1,4 @@
-name: both_bias
+name: bothbias
 channels:
   - conda-forge
   - defaults
