@@ -131,7 +131,6 @@ def train_combined_active_site_model(csv_file, data_dir, cutoff=15):
         num_leaves=291,
         min_child_samples=2,
         learning_rate=0.03295785797670332,
-        log_max_bin=9,
         colsample_bytree=0.5813381312278044,
         reg_alpha=0.011572343074847936,
         reg_lambda=0.011739705334667914,
